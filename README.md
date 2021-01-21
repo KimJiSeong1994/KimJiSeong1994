@@ -4,15 +4,7 @@
 	
   </div>
 
-### Data Analyst
-- Junior Data Analyst
-
-### Interest
-- Social Statistics
-- SNA(Social Network Analysis)
-- NLU(natural language understanding)
-- NLG(natural language generation)
-- Text Summarization
+👨🏻‍🎓  Sociology 📈 Data Analyst 💬 Natural Language Understanding 💬 Natural Language Generation
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimJIseong1994)](https://github.com/anuraghazra/github-readme-stats)
 
