@@ -14,6 +14,8 @@
 - NLG(natural language generation)
 - Text Summarization
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimJIseong1994)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align=center>
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://KimJiSeong1994.github.io/)](https://KimJiSeong1994.github.io/) 
@@ -22,4 +24,3 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:js05141@gmail.com)](mailto:js05141@gmail.com)
 </div>
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimJIseong1994)](https://github.com/anuraghazra/github-readme-stats)
