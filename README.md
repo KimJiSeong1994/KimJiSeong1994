@@ -8,11 +8,10 @@
 사회의 변호와 흐름, 문제를 데이터를 통해 분석하고 풀어가고자 합니다
 
 ### Interests
-📈 Social Statistics <br/> 
-👪 SNA(Social Network analysis) <br/>
-💬 Natural Language Understanding <br/> 
-📝 Natural Language Generation <br/>
-📋 Text Summarization
+🎓 Sociology <br/> 
+📑 Text Analysis (Understanding, Generation) <br/> 
+👪 Relation Analysis (SNA, GNN) <br/>
+🤖 Chatbot + RL
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimJIseong1994)](https://github.com/anuraghazra/github-readme-stats)
 
