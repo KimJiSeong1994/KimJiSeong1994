@@ -10,7 +10,7 @@
 ### Interests
 📑 Text Analysis (Understanding, Generation) <br/> 
 📝 Text Summarization<br/>
-👪 Relation Analysis (SNA, GNN) <br/>
+👪 Relation Analysis (SNA, GNN)<br/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimJIseong1994)](https://github.com/anuraghazra/github-readme-stats)
 
