@@ -12,8 +12,6 @@
 📝 Text Summarization<br/>
 👪 Relation Analysis (SNA, GNN)<br/>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimJIseong1994)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="left">
 	
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://KimJiSeong1994.github.io/)](https://www.notion.so/Jiseong-s-blog-73998f5c21374480bc642d5bdfbd265f) 
