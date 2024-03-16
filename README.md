@@ -5,7 +5,6 @@
   </div>
 
 ### Data analyst / AI Researcher 
-사회의 변화와 흐름, 문제를 데이터를 통해 분석하고 풀어가고자 합니다.
 Analyzing and solving social changes, trends, and issues through data.
 
 ### Interests
