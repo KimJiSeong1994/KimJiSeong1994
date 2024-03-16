@@ -8,12 +8,11 @@
 Analyzing and solving social changes, trends, and issues through data.
 
 ### Interests
-📑 Text Analysis (Understanding, Generation)<br/> 
-📝 Text Summarization<br/>
-👪 Relation Analysis (SNA, GNN)<br/>
+📑 Text Analysis<br/> 
+👪 Relation Analysis (SNA, GNN) <br/>
 
 <div align="left">
-	
+
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://KimJiSeong1994.github.io/)](https://www.notion.so/Jiseong-s-blog-73998f5c21374480bc642d5bdfbd265f) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/KimJiSeong1994)](https://www.facebook.com/KimJiSeong1994) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/__ji_seong__/)](https://www.instagram.com/__ji_seong__/) 
