@@ -8,13 +8,22 @@
 Analyzing and solving social changes, trends, and issues through data.
 
 ### Interests
-🌍 **Social Dynamics Analysis**<br/>
-🤖 **LLM Agent R&D**<br/>
-🕸️ **Graph & Spatial AI** (Knowledge Graphs, GNN)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;▫️ Graph-based Semantic Evolution Analysis<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;▫️ GNN-based Sales Prediction Modeling<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;▫️ Graph-based Urban Commercial Analysis<br/>
+🌍 **Computational Social Science & NLP**
+* **Socio-Semantic Analysis:** Modeling diachronic semantic change (의미 변화 분석)
+* **Social Trend Tracking:** Analyzing evolution of social conflicts and keywords
+* **Text Analysis:** Natural Language Processing for social data
 
+🕸️ **Graph Learning (GNN)**
+* Relation Analysis (Social Network Analysis)
+* graph representation learning
+* Knowledge Graphs
+
+🤖 **AI Agents for Research (AI4R)**
+* **Automated Knowledge Discovery:** Paper Review Agent & Research Assistant (**Project Jiphyeonjeon**)
+* **LLM Application:** Retrieval-Augmented Generation (RAG) & Agentic Workflows
+
+🏙️ **Geo-AI & Spatial Intelligence**
+* **Urban Analytics:** Graph base Commercial Area Generation & Sales Prediction 
 
 <div align="left">
 
