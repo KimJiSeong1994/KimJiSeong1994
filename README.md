@@ -11,7 +11,7 @@ Analyzing and solving social changes, trends, and issues through data.
 🌍 **Social Dynamics Analysis**<br/>
 🤖 **LLM Agent R&D**<br/>
 🕸️ **Graph & Spatial AI** (Knowledge Graphs, GNN)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;▫️ Graph-based Semantic Evolution Analysis
+&nbsp;&nbsp;&nbsp;&nbsp;▫️ Graph-based Semantic Evolution Analysis<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;▫️ GNN-based Sales Prediction Modeling<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;▫️ Graph-based Urban Commercial Analysis<br/>
 
