@@ -19,7 +19,7 @@ Analyzing and solving social changes, trends, and issues through data.
 * Knowledge Graphs
 
 🤖 **AI Agents for Research (AI4R)**
-* **Automated Knowledge Discovery:** Paper Review Agent & Research Assistant (**Project [Jiphyeonjeon](https://jipyheonjeon.kr/)**)
+* **Automated Knowledge Discovery:** Paper Review Agent & Research Assistant (**Project [Jiphyeonjeon]([https://jipyheonjeon.kr/](https://jiphyeonjeon.kr/))**)
 * **LLM Application:** Retrieval-Augmented Generation (RAG) & Agentic Workflows
 
 🏙️ **Geo-AI & Spatial Intelligence**
